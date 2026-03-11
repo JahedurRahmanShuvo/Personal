@@ -1,0 +1,7 @@
+{
+  "name": "GP Inventory Tracker",
+  "description": "A mobile-responsive inventory management system for Grameenphone distribution houses to track SIM and Recharge cards with barcode scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
